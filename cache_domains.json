@@ -58,6 +58,12 @@
 			"domain_files": ["origin.txt"]
 		},
 		{
+			"name": "npm",
+			"description": "NPM package registry",
+			"mixed_content": true,
+			"domain_files": ["npm.txt"]
+		},
+		{
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
 			"domain_files": ["pathofexile.txt"]
